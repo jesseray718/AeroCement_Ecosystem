@@ -1,0 +1,20 @@
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Compiled Files
+*.pdf
+*.tex.backup
+*.log
+*.aux
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local Config
+.env
+*.key
+wallet.json
