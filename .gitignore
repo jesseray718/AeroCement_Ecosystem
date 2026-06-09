@@ -1,20 +1,10 @@
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# Compiled Files
 *.pdf
-*.tex.backup
-*.log
 *.aux
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Local Config
+*.log
+*.out
+*.toc
+*.gz
+build/
 .env
-*.key
-wallet.json
+__pycache__/
+*.pyc
