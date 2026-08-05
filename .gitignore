@@ -1,10 +1,25 @@
-*.pdf
-*.aux
+
+# Core Exclusions
+vendor_archive/
+quarantine/
+backups/
+logs/
+fair/*.jsonl
 *.log
-*.out
-*.toc
-*.gz
-build/
-.env
+autonomous_daemon.log
+autonomous_report.json
+autonomous_snapshot.json
+autonomous_ledger.jsonl
+
+# Python Cache
 __pycache__/
 *.pyc
+
+# Large Binaries
+*.gguf
+*.bin
+*.pth
+*.pt
+
+# Submodules
+meta_hub/
