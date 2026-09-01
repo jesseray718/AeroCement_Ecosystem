@@ -36,3 +36,6 @@ We are looking for builders, engineers, and skeptics.
 - Propose improvements via Pull Request.
 
 *"The Earth is the Lord's, and the fullness thereof."* -- Psalm 24:1
+
+## Knowledge Integration
+See `docs/knowledge/`.
